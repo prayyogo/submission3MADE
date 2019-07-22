@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">Serial TV</string>
+    <string name="name_films">Nama Film:</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="release_date">Tanggal Rilis:</string>
+    <string name="genre">Genre:</string>
+    <string name="popularity">Popularitas:</string>
+    <string name="rating_user">Rating Penonton:</string>
+    <string name="description">Deskripsi:</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="language">id-ID</string>
+</resources>
